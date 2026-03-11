@@ -1,4 +1,5 @@
-# portfolio-data-analystgit init
+# portfolio-data-analyst
+git init
 git add .
 git commit -m "Initial portfolio commit"
 git branch -M main
